@@ -1,1 +1,1 @@
-This is an extension for ExpressionEngine 2 that enabled HttpOnly on EE's cookies.  It really shoudl be a config option, but until it is, we have this.
+This is an extension for ExpressionEngine 2 that enables HttpOnly on EE's cookies.  It really should be a config option, but until it is, we have this.
