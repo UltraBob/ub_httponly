@@ -1,0 +1,1 @@
+This is an extension for ExpressionEngine 2 that enabled HttpOnly on EE's cookies.  It really shoudl be a config option, but until it is, we have this.
