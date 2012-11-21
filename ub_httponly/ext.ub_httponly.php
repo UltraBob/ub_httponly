@@ -15,7 +15,7 @@
 // ------------------------------------------------------------------------
 
 /**
- * BM HttpOnly Cookies Extension
+ * UB HttpOnly Cookies Extension
  *
  * @package		ExpressionEngine
  * @subpackage	Addons
@@ -24,13 +24,13 @@
  * @link		
  */
 
-class Bm_httponly_ext {
+class Ub_httponly_ext {
 	
 	public $settings 		= array();
 	public $description		= 'Does one thing: enable HttpOnly cookies
 All credit for this first version of this extension goes to Dom Stubbs of vayadesign.net he basically wrote it for me in a stackexchange answer.';
-	public $docs_url		= 'https://github.com/UltraBob/bm_httponly';
-	public $name			= 'BM HttpOnly Cookies';
+	public $docs_url		= 'https://github.com/UltraBob/ub_httponly';
+	public $name			= 'UB HttpOnly Cookies';
 	public $settings_exist	= 'n';
 	public $version			= '1.0';
 	
@@ -131,5 +131,5 @@ All credit for this first version of this extension goes to Dom Stubbs of vayade
 	// ----------------------------------------------------------------------
 }
 
-/* End of file ext.bm_httponly.php */
-/* Location: /system/expressionengine/third_party/bm_httponly/ext.bm_httponly.php */
+/* End of file ext.ub_httponly.php */
+/* Location: /system/expressionengine/third_party/ub_httponly/ext.ub_httponly.php */
